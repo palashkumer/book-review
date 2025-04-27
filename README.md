@@ -6,23 +6,23 @@ Users can browse, review, and rate books easily.
 
 ## Features ✨
 
-- [User registration and login.
-- [Book listing and detailed view.
-- [Add new books.
-- [Add and edit book reviews
-- [Rating system for books
-- [Admin panel to manage books and reviews.
-- [Responsive and user-friendly design
+- User registration and login.
+- Book listing and detailed view.
+- Add new books.
+- Add and edit book reviews
+- Rating system for books
+- Admin panel to manage books and reviews.
+- Responsive and user-friendly design
 
 
 ## Tech Stack 🛠
-- [Backend: Laravel
+- Backend: Laravel
 
-- [Database: MySQL
+- Database: MySQL
 
-- [Frontend: Blade Templates, Bootstrap
+- Frontend: Blade Templates, Bootstrap
 
-- [Authentication: Laravel Breeze (or built-in auth scaffolding)
+- Authentication: Laravel Breeze (or built-in auth scaffolding)
 
 ## Installation 🚀
 Follow these steps to run the project locally:</br>
