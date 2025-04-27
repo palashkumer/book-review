@@ -27,30 +27,40 @@ Users can browse, review, and rate books easily.
 ## Installation 🚀
 Follow these steps to run the project locally:</br>
 # 1. Clone the repository
-<pre> ```bash 
+```bash 
     git clone https://github.com/palashkumer/book-review.git
- ```</pre>
+ ```
 
 # 2. Navigate into the project directory
+```bash
 cd book-review
+```
 
 # 3. Install PHP dependencies
+```bash
 composer install
+```
 
 # 4. Install JavaScript dependencies (optional if using frontend assets)
+```bash
 npm install && npm run dev
+```
 
 # 5. Create a copy of .env file
+```bash
 cp .env.example .env
-
+```
 # 6. Generate the application key
+```bash
 php artisan key:generate
-
+```
 # 7. Set up your database credentials in the .env file
 
 # 8. Run migrations to create tables
+```bash
 php artisan migrate
-
+```
 # 9. Start the development server
+```bash
 php artisan serve
-
+```
