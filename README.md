@@ -29,7 +29,7 @@ Follow these steps to run the project locally:</br>
 # 1. Clone the repository
 <pre> ```bash 
     git clone https://github.com/palashkumer/book-review.git
- </pre>
+ ```</pre>
 
 # 2. Navigate into the project directory
 cd book-review
