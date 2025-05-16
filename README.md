@@ -11,7 +11,6 @@ Users can browse, review, and rate books easily.
 - Add new books.
 - Add and edit book reviews
 - Rating system for books
-- Admin panel to manage books and reviews.
 - Responsive and user-friendly design
 
 
@@ -31,7 +30,7 @@ Follow these steps to run the project locally:</br>
     git clone https://github.com/palashkumer/book-review.git
  ```
 
-# 2. Navigate into the project directory
+# 2. Navigate to the project directory
 ```bash
 cd book-review
 ```
@@ -46,7 +45,7 @@ composer install
 npm install && npm run dev
 ```
 
-# 5. Create a copy of .env file
+# 5. Create a copy of the .env file
 ```bash
 cp .env.example .env
 ```
